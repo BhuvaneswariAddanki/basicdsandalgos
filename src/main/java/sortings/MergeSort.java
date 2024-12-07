@@ -1,7 +1,8 @@
 package sortings;
 
 /**
- * Merge sort is a popular sorting algorithm known for its efficiency and stability. It follows the divide-and-conquer approach to sort a given array of elements.
+ * Merge sort is a popular sorting algorithm known for its efficiency and stability.
+ * It follows the divide-and-conquer approach to sort a given array of elements.
  * <p>
  * Here’s a step-by-step explanation of how merge sort works:
  * <p>
